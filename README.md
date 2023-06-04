@@ -1,10 +1,10 @@
-# fresh project
+# Ghibli Deno API 2.0
 
-### Usage
+## Usage
 
 Start the project:
 
-```
+```sh
 deno task start
 ```
 
